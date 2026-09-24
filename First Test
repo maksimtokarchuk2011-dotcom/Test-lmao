@@ -1,4 +1,4 @@
-local findplayer = game.Players:FindFirstChild("robloxstupidwas")
+local findplayer = game.Players:FindFirstChild("TheGreenedely")
 if findplayer then
 findplayer.Character.Humanoid.WalkSpeed = 800
 findplayer.Character.Humanoid.MaxHealth = 1000000000
